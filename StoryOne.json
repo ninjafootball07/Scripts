@@ -35,7 +35,9 @@
       " To protect its home. To warn intruders, and to celebrate life itself. The voice of the wolf would keep watch while they slept. Able to warn against danger. Most importantly this anthem united them despite differences. For without unity, none are truly safe. Without community, life becomes meaningless. Regan continued listening intently. It wasn't just some old song. These weren't random noises. These sounds flowed through her veins.\nWhen the last chord died down, the sun began to rise. Everything quieted except for the sounds made by nature herself. Birds chirped while crickets buzzed. An owl hooted mournfully one last time. Bugs hummed and crackled beneath the leaves. The patrol had ended.",
       "\nThe next day they rode all day long through what used to be called East Prussia. Fierce winds whipped across the open plains, driving wild clouds above their heads. Lightning flashed erratically among dark gray skies. Thunder rumbled ominously throughout the land like rolling thunderclaps. Occasionally rain pelted them from above and soaked everyone to the bone.",
       " By sunset though, the storm abated as suddenly as it appeared. Daylight faded slowly out of sight.\nIn the distance ahead, silhouetted figures could see tall buildings rising high above the horizon. Flashes lit up the nighttime skyline. Smoke billowed upward from countless chimneys. People moved about below, illuminated by gas lamps. More lights twinkled here than anywhere else on",
-      " this planet. If there ever was any doubt whether they'd arrived at their destination, those doubts disappeared instantly upon seeing the city. Everyone looked back at the others changing their gaits as if they were horses. No one needed to say anything. They understood.\nThey reached the outskirts first. Once past the outer ring of defenses, guards saluted them as they entered the inner fortifications. At least thirty heavily armed troops lined either side of the road."
+      " this planet. If there ever was any doubt whether they'd arrived at their destination, those doubts disappeared instantly upon seeing the city. Everyone looked back at the others changing their gaits as if they were horses. No one needed to say anything. They understood.\nThey reached the outskirts first. Once past the outer ring of defenses, guards saluted them as they entered the inner fortifications. At least thirty heavily armed troops lined either side of the road.",
+      " The largest man stepped forward and bowed respectfully to James. After exchanging pleasantries, he directed him to follow the main street straight to the fortress. While passing between two stone columns, Echo spotted something strange. Coins lay scattered around the base. The thirty wore steel armor plates encasing broad shoulders and thick arms. Every soldier held a sword and shield ready for battle. These men were alert and attentive.\nAfter passing between two rows of soldiers, they came face-to-face with four massive iron doors standing wide open.",
+      " Two large pillars flanked these doors; flags hung limply along their lengths. Upon closer inspection, Echo noticed someone watching them right outside the gate. As soon as they saw him, the stranger quickly vanished behind the building. Trembling, Echo remembered being watched once before. This feeling didn't go away easily. He wanted to growl at the intruder. Before heading further, Echo glanced again at the coins lying on the floor. There must've been thousands since nothing had disturbed them yet."
    ],
    "actions_metadata": {
       "0": {
@@ -439,19 +441,42 @@
          ]
       },
       "33": {
-         "Selected Text": "",
+         "Selected Text": " The largest man stepped forward and bowed respectfully to James. After exchanging pleasantries, he directed him to follow the main street straight to the fortress. While passing between two stone columns, Echo spotted something strange. Coins lay scattered around the base. The thirty wore steel armor plates encasing broad shoulders and thick arms. Every soldier held a sword and shield ready for battle. These men were alert and attentive.\nAfter passing between two rows of soldiers, they came face-to-face with four massive iron doors standing wide open.",
          "Alternative Text": [
-            {
-               "Text": " The largest man stepped forward and bowed respectfully to James. After exchanging pleasantries, he directed him to follow the main street straight to the castle. As soon as they crossed the drawbridge, soldiers took control of their mounts. All four men dismounted and walked briskly towards the entrance.\nWhile passing between two stone columns, Echo spotted something strange. Coins lay scattered around the base. Someone must've dropped them during their ride.",
-               "Pinned": false,
-               "Previous Selection": false,
-               "Edited": false
-            },
             {
                "Text": " They wore steel armor plates encasing broad shoulders and thick arms. Every soldier held a sword and shield ready for battle. Huge cannons pointed outward pointing directly at the enemy. Despite being tired after days riding hard, these men were alert and attentive. Several even whistled loudly alongside them as they walked forward.\nAfter passing between two rows of soldiers, they came face-to-face with four massive iron doors standing wide open.",
                "Pinned": false,
                "Previous Selection": false,
                "Edited": false
+            },
+            {
+               "Text": " The largest man stepped forward and bowed respectfully to James. After exchanging pleasantries, he directed him to follow the main street straight to the castle. As soon as they crossed the drawbridge, soldiers took control of their mounts. All four men dismounted and walked briskly towards the entrance.\nWhile passing between two stone columns, Echo spotted something strange. Coins lay scattered around the base. Someone must've dropped them during their ride.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": true
+            },
+            {
+               "Text": " The largest man stepped forward and bowed respectfully to James. After exchanging pleasantries, he directed him to follow the main street straight to the fortress. While passing between two stone columns, Echo spotted something strange. Coins lay scattered around the base. The  wore steel armor plates encasing broad shoulders and thick arms. Every soldier held a sword and shield ready for battle. Huge cannons pointed outward pointing directly at the enemy. Despite being tired after days riding hard, these men were alert and attentive. Several even whistled loudly alongside them as they walked forward.\\nAfter passing between two rows of soldiers, they came face-to-face with four massive iron doors standing wide open..",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": true
+            }
+         ]
+      },
+      "34": {
+         "Selected Text": " Two large pillars flanked these doors; flags hung limply along their lengths. Upon closer inspection, Echo noticed someone watching them right outside the gate. As soon as they saw him, the stranger quickly vanished behind the building. Trembling, Echo remembered being watched once before. This feeling didn't go away easily. He wanted to growl at the intruder. Before heading further, Echo glanced again at the coins lying on the floor. There must've been thousands since nothing had disturbed them yet.",
+         "Alternative Text": [
+            {
+               "Text": " Guards dressed exactly the same as the ones outside sat idly playing dice nearby. As soon as they saw James' party approaching, three immediately got up and ran towards them shouting orders. Others loaded heavy crossbows and aimed them directly at the travelers. One took aim right at Echo's chest. Her heart skipped a beat but didn't stop beating altogether. Instead, echoing through her body was a feeling akin to being struck by lightning.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": false
+            },
+            {
+               "Text": " Two large pillars flanked these doors; flags hung limply along their lengths. Upon closer inspection, Echo noticed someone watching them right outside the gate. As soon as they saw him, the stranger quickly vanished behind the building. Trembling, Echo remembered being watched once before. This feeling didn't go away easily. Before heading further, Echo glanced again at the coins lying on the floor. There must've been thousands since nothing had disturbed them yet.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": true
             }
          ]
       }
