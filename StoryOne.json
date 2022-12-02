@@ -37,7 +37,13 @@
       " By sunset though, the storm abated as suddenly as it appeared. Daylight faded slowly out of sight.\nIn the distance ahead, silhouetted figures could see tall buildings rising high above the horizon. Flashes lit up the nighttime skyline. Smoke billowed upward from countless chimneys. People moved about below, illuminated by gas lamps. More lights twinkled here than anywhere else on",
       " this planet. If there ever was any doubt whether they'd arrived at their destination, those doubts disappeared instantly upon seeing the city. Everyone looked back at the others changing their gaits as if they were horses. No one needed to say anything. They understood.\nThey reached the outskirts first. Once past the outer ring of defenses, guards saluted them as they entered the inner fortifications. At least thirty heavily armed troops lined either side of the road.",
       " The largest man stepped forward and bowed respectfully to James. After exchanging pleasantries, he directed him to follow the main street straight to the fortress. While passing between two stone columns, Echo spotted something strange. Coins lay scattered around the base. The thirty wore steel armor plates encasing broad shoulders and thick arms. Every soldier held a sword and shield ready for battle. These men were alert and attentive.\nAfter passing between two rows of soldiers, they came face-to-face with four massive iron doors standing wide open.",
-      " Two large pillars flanked these doors; flags hung limply along their lengths. Upon closer inspection, Echo noticed someone watching them right outside the gate. As soon as they saw him, the stranger quickly vanished behind the building. Trembling, Echo remembered being watched once before. This feeling didn't go away easily. He wanted to growl at the intruder. Before heading further, Echo glanced again at the coins lying on the floor. There must've been thousands since nothing had disturbed them yet."
+      " Two large pillars flanked these doors; flags hung limply along their lengths. Upon closer inspection, Echo noticed someone watching them right outside the gate. As soon as they saw him, the stranger quickly vanished behind the building. Trembling, Echo remembered being watched once before. This feeling didn't go away easily. He wanted to growl at the intruder. Before heading further, Echo glanced again at the coins lying on the floor. There must've been thousands since nothing had disturbed them yet.",
+      "\nThe guard guarding the gates led them through the courtyard and into a grand hallway. They walked down a long corridor. The guards stayed close to them, but they didn't seem to care anymore. Echo wondered how many people they'd already killed.",
+      " The halls echoed with the clank of swords and shields. Echoes of footsteps filled the air. Doors opened and closed. Soldiers rushed by, shouting orders. Echo tried to count the number of times she heard the word 'attack' repeated. There seemed to be no end to the training within these walls.",
+      "\nFinally, they stopped in front of a door. The guard knocked twice then opened it. \"Please, come in,\" said a voice.\nThe room was small, but much more comfortable than anything they'd seen so far. A soft carpet covered the floor, and a large bed sat against one wall. A fireplace took up another. A few chairs and tables completed the room.",
+      " The man who spoke stood near the doorway.\n\"I'm afraid you won't find much here. I don't have much to offer.\"\n\"We're not looking for food or drink. We're looking for knowledge,\" replied James.\n\"Ah, well then, you've come to the right place. Please, take a seat. And remember, this is information is only shared with friends of the planet.",
+      " Now, where shall I begin?\"\nJames and the rest settled down on the chairs. The man began his tale. \"My name is John. John the Seer. I'm not sure what you heard about me, but that isn't important now. What matters is, I can see things that others cannot.",
+      " My gift has brought me great fortune. For instance, when the humans first came to my home, I knew they would attack. I even knew which army would win. It wasn't long before the humans came for us."
    ],
    "actions_metadata": {
       "0": {
@@ -474,6 +480,77 @@
             },
             {
                "Text": " Two large pillars flanked these doors; flags hung limply along their lengths. Upon closer inspection, Echo noticed someone watching them right outside the gate. As soon as they saw him, the stranger quickly vanished behind the building. Trembling, Echo remembered being watched once before. This feeling didn't go away easily. Before heading further, Echo glanced again at the coins lying on the floor. There must've been thousands since nothing had disturbed them yet.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": true
+            }
+         ]
+      },
+      "35": {
+         "Selected Text": "\nThe guard guarding the gates led them through the courtyard and into a grand hallway. They walked down a long corridor. The guards stayed close to them, but they didn't seem to care anymore. Echo wondered how many people they'd already killed.",
+         "Alternative Text": []
+      },
+      "36": {
+         "Selected Text": " The halls echoed with the clank of swords and shields. Echoes of footsteps filled the air. Doors opened and closed. Soldiers rushed by, shouting orders. Echo tried to count the number of times she heard the word 'attack' repeated. There seemed to be no end to the training within these walls.",
+         "Alternative Text": [
+            {
+               "Text": " Maybe even more than she knew about. She imagined innocent people being dragged through these halls and thrown into dungeons.\nSoon they arrived at the end of the hall. A door stood open. Inside was a set of stairs leading downward. James turned to Regan. \"You first.\"",
+               "Pinned": false,
+               "Previous Selection": true,
+               "Edited": false
+            },
+            {
+               "Text": " The halls echoed with the clank of swords and shields. Echoes of footsteps filled the air. Doors opened and closed. Soldiers rushed by, shouting orders. Echo tried to count the number of times she heard the word 'attack' repeated. There seemed to be no end to it.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": true
+            }
+         ]
+      },
+      "37": {
+         "Selected Text": "\nFinally, they stopped in front of a door. The guard knocked twice then opened it. \"Please, come in,\" said a voice.\nThe room was small, but much more comfortable than anything they'd seen so far. A soft carpet covered the floor, and a large bed sat against one wall. A fireplace took up another. A few chairs and tables completed the room.",
+         "Alternative Text": [
+            {
+               "Text": "\nFinally they stopped in front of a door. The guard knocked twice then opened it. \"Please, come in,\" said a voice.\nThe room was small, but much more comfortable than anything they'd seen so far. A soft carpet covered the floor, and a large bed sat against one wall. A fireplace took up another. A few chairs and tables completed the room.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": true
+            }
+         ]
+      },
+      "38": {
+         "Selected Text": " The man who spoke stood near the doorway.\n\"I'm afraid you won't find much here. I don't have much to offer.\"\n\"We're not looking for food or drink. We're looking for knowledge,\" replied James.\n\"Ah, well then, you've come to the right place. Please, take a seat. And remember, this is information is only shared with friends of the planet.",
+         "Alternative Text": [
+            {
+               "Text": " The door shut behind them.\n\"I'm sorry about the accommodations,\" apologized the voice.\n\"Don't worry about that,\" answered Giselle. \"We're all grateful for your hospitality.\"\n\"Oh, please! I couldn't possibly take payment for this. It's only right to give our guests a place to stay. Any friend of the pack deserves to be treated well.",
+               "Pinned": false,
+               "Previous Selection": true,
+               "Edited": false
+            },
+            {
+               "Text": " The man who spoke stood near the doorway.\n\"I'm afraid you won't find much here. I don't have much to offer.\"\n\"We're not looking for food or drink. We're looking for knowledge,\" replied James.\n\"Ah, well then, you've come to the right place. Please, take a seat. And remember, this is secret information.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": true
+            }
+         ]
+      },
+      "39": {
+         "Selected Text": " Now, where shall I begin?\"\nJames and the rest settled down on the chairs. The man began his tale. \"My name is John. John the Seer. I'm not sure what you heard about me, but that isn't important now. What matters is, I can see things that others cannot.",
+         "Alternative Text": [
+            {
+               "Text": " Not even my wife knows about it. Now, where shall I begin?\"\n\nJames and the rest settled down on the chairs. The man began his tale. \"My name is John. John the Seer. I'm not sure what you heard about me, but that isn't important now. What matters is, I can see things that others cannot.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": true
+            }
+         ]
+      },
+      "40": {
+         "Selected Text": " My gift has brought me great fortune. For instance, when the humans first came to my home, I knew they would attack. I even knew which army would win. It wasn't long before the humans came for us.",
+         "Alternative Text": [
+            {
+               "Text": " I can see the future. That's why they call me the seer. I'm also a prophet. My gift has brought me great fortune. For instance, when the humans first came to my home, I knew they would attack. I even knew which army would win. It wasn't long before the humans came for us.",
                "Pinned": false,
                "Previous Selection": false,
                "Edited": true
