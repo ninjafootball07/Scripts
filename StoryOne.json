@@ -43,7 +43,13 @@
       "\nFinally, they stopped in front of a door. The guard knocked twice then opened it. \"Please, come in,\" said a voice.\nThe room was small, but much more comfortable than anything they'd seen so far. A soft carpet covered the floor, and a large bed sat against one wall. A fireplace took up another. A few chairs and tables completed the room.",
       " The man who spoke stood near the doorway.\n\"I'm afraid you won't find much here. I don't have much to offer.\"\n\"We're not looking for food or drink. We're looking for knowledge,\" replied James.\n\"Ah, well then, you've come to the right place. Please, take a seat. And remember, this is information is only shared with friends of the planet.",
       " Now, where shall I begin?\"\nJames and the rest settled down on the chairs. The man began his tale. \"My name is John. John the Seer. I'm not sure what you heard about me, but that isn't important now. What matters is, I can see things that others cannot.",
-      " My gift has brought me great fortune. For instance, when the humans first came to my home, I knew they would attack. I even knew which army would win. It wasn't long before the humans came for us."
+      " My gift has brought me great fortune. For instance, when the humans first came to my home, I knew they would attack. I even knew which army would win.",
+      " I can tell you the exact date of your arrival here. It's April 17th, 2344. I know it seems impossible, but it's true. I also know that one of you will never leave this planet alive. But please, do not ask me who. That is a secret known only to myself. Now, I have told you everything you need to know.\"\nThe man smiled.",
+      " \"You seem concerned for my safety. Well, don't worry. You aren't the first to visit. Many have asked for my guidance. Some came to me with greed in their hearts. They wanted my secrets.",
+      " Others came to kill me. But I am safe.\"\n\nHe sighed. \"Yes, I suppose I could give you some of my secrets. But I warn you,",
+      " I'm not sharing anything that will guarantee victory. However, I will share something that may be useful. Knowledge and ideas are hard to come by on this planet.",
+      " Even the most intelligent man is forced to seek wisdom from the unknown. And if he can't find it, he'll make it up. Until today, there was little hope of ever discovering the truth. Then, an idea struck me. Perhaps, the books were hiding the truth.",
+      " Maybe there were other worlds far more advanced than ours. Maybe, someone else has already discovered the same truths. Perhaps, there are beings in space who have awakened to their power. If so, they may already be trying to conquer our world. Now, this is all just speculation."
    ],
    "actions_metadata": {
       "0": {
@@ -547,13 +553,103 @@
          ]
       },
       "40": {
-         "Selected Text": " My gift has brought me great fortune. For instance, when the humans first came to my home, I knew they would attack. I even knew which army would win. It wasn't long before the humans came for us.",
+         "Selected Text": " My gift has brought me great fortune. For instance, when the humans first came to my home, I knew they would attack. I even knew which army would win.",
          "Alternative Text": [
             {
                "Text": " I can see the future. That's why they call me the seer. I'm also a prophet. My gift has brought me great fortune. For instance, when the humans first came to my home, I knew they would attack. I even knew which army would win. It wasn't long before the humans came for us.",
                "Pinned": false,
                "Previous Selection": false,
                "Edited": true
+            },
+            {
+               "Text": " My gift has brought me great fortune. For instance, when the humans first came to my home, I knew they would attack. I even knew which army would win. It wasn't long before the humans came for us.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": true
+            }
+         ]
+      },
+      "41": {
+         "Selected Text": " I can tell you the exact date of your arrival here. It's April 17th, 2344. I know it seems impossible, but it's true. I also know that one of you will never leave this planet alive. But please, do not ask me who. That is a secret known only to myself. Now, I have told you everything you need to know.\"\nThe man smiled.",
+         "Alternative Text": [
+            {
+               "Text": " I can tell you the exact date of your arrival here. It's April 17th, 2344. I know it seems impossible, but it's true. I also know that you will never leave this planet alive. That is why I'm allowing you to stay here. But please, do not ask me how I know. That is a secret known only to myself. Now, I have told you everything you need to know. You may leave now.\"\nThe man smiled.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": true
+            }
+         ]
+      },
+      "42": {
+         "Selected Text": " \"You seem concerned for my safety. Well, don't worry. You aren't the first to visit. Many have asked for my guidance. Some came to me with greed in their hearts. They wanted my secrets.",
+         "Alternative Text": [
+            {
+               "Text": " \"Yes, I believe you have. You may leave and go back to your fellow soldiers. I will call you if I need anything else.\"\n\nEcho watched them leave. She couldn't help asking, \"Why did he lie? Why didn't he just kill us right there and then? Isn't that what he's supposed to do?\"\n\"He wants to make sure we understand our situation. He doesn't want us to be surprised when the time comes. I think he's going to tell us how to get back home. And perhaps he'll let us live.\"\nRegan nodded. \"I hope so.",
+               "Pinned": false,
+               "Previous Selection": true,
+               "Edited": false
+            },
+            {
+               "Text": " \"Now, perhaps you'll understand why I did not join the guards. They are trained only to fight, not to learn. They may be excellent warriors, but they cannot see into the future.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": false
+            }
+         ]
+      },
+      "43": {
+         "Selected Text": " Others came to kill me. But I am safe.\"\n\nHe sighed. \"Yes, I suppose I could give you some of my secrets. But I warn you,",
+         "Alternative Text": [
+            {
+               "Text": " They wanted my knowledge. Others came to kill. They were jealous of me and my power. None of them understood. Then, they left. I'm a prisoner here, but they're all gone. There are no other visitors. The world is mine alone.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": false
+            },
+            {
+               "Text": " Others came to kill me. But I am safe.\"\n\nHe sighed. \"Yes, I suppose I could give you some of my secrets. But I warn you, they are powerful magic.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": true
+            }
+         ]
+      },
+      "44": {
+         "Selected Text": " I'm not sharing anything that will guarantee victory. However, I will share something that may be useful. Knowledge and ideas are hard to come by on this planet.",
+         "Alternative Text": [
+            {
+               "Text": " you will live to regret it. Now, I have told you all you need to know. Go now, and seek knowledge. I think you'll find it.\"\n\nEcho glanced at James. He nodded. She stood up and headed to the door. The others did the same.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": false
+            },
+            {
+               "Text": " I'm not sharing anything that will guarantee victory. However, I will share something that may be useful. With this, you may survive the next battle. Of course, it doesn't mean you'll win. Victory is an idea, and ideas are hard to come by on this planet.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": true
+            }
+         ]
+      },
+      "45": {
+         "Selected Text": " Even the most intelligent man is forced to seek wisdom from the unknown. And if he can't find it, he'll make it up. Until today, there was little hope of ever discovering the truth. Then, an idea struck me. Perhaps, the books were hiding the truth.",
+         "Alternative Text": [
+            {
+               "Text": " Perhaps, you might find a way to get off without me revealing my secrets?\"\n\n\"What is it?\" asked James.\n\"Well, I'll tell you. I'll tell you the truth. Not the whole truth though, just the parts that will help you.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": false
+            }
+         ]
+      },
+      "46": {
+         "Selected Text": " Maybe there were other worlds far more advanced than ours. Maybe, someone else has already discovered the same truths. Perhaps, there are beings in space who have awakened to their power. If so, they may already be trying to conquer our world. Now, this is all just speculation.",
+         "Alternative Text": [
+            {
+               "Text": " Perhaps, someone had found the answers long ago. Yet, the answer eluded them because they could not read the strange writing. If I could decipher the ancient script, perhaps I would learn the truth. Now, I have a message for you. Don't be fooled. The books are a lie.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": false
             }
          ]
       }
