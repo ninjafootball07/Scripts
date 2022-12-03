@@ -1,15 +1,20 @@
 {
    "gamestarted": true,
-   "prompt": "",
-   "memory": "",
-   "authorsnote": "",
+   "prompt": "The land is split by a river, and the people are divided into two camps: those who live on the east bank and those who live on the west. The east-west river divides the already diverse population into an ever-smaller number of tribes and villages.",
+   "memory": "[natural land formations group people closely together] [further from the center the divisions among the people grow even more numerous]",
+   "authorsnote": "[Setting: overpopulated planet] [Themes: dystopia, explicit] [Writing style: vivid, joyful and fantastic] [Every argues and planet life is full of conflict]",
    "anotetemplate": "[Author's note: <|>]",
    "actions": [
-      "\nThe Valley of Dragons.\n\nThe land is split by a river, and the people are divided into two camps: those who live on the east bank and those who live on the west. The east-west river divides them into an ever-smaller number of smaller tribes and villages."
+      " There were more towns along one side because it's where trade routes went through to get from one country to another. The lava put a halt to that",
+      ", the river has been filled partially with lava, and the only way to cross the boiling water is by bridge. That bridge has been destroyed. Upon close inspection of the rubble around the city, it is discovered that the old stone foundations for the extremely ancient bridge still remain. It's said that the people living on the other side of the river have built a huge wall around their entire village, so no one could come across the river. ",
+      " It was nightfall when we finally reached the outskirts of the city. We had decided to camp out in the woods nearby rather than go back into town. I thought about going to sleep right away but then realized we would be leaving our things unattended if we did. So instead, I sat down near the fire and began reading my book. I looked up at the sky just as there was a flash of red light. At first I thought it was just the setting sun reflecting off of the trees, but then I saw something else. A small dot of light appeared in the sky. It grew bigger and brighter until it became a large sphere.",
+      " It was so beautiful that I forgot all about my worries for a moment. The sphere hovered above us, then slowly descended towards the forest. Suddenly, a loud noise erupted from the sphere. It made me jump, and I looked around to see everyone else doing the same. The sphere stopped its descent and flew over our heads. Then it turned around and flew back in the direction it came from. Everyone watched silently as it disappeared into the distance, not knowing what to make of this. After a few minutes, I heard someone whisper something in a language I didn't understand. I looked around and saw everyone nodding. \"Gods,\" I whispered, and everyone nodded.",
+      " We all stared at each other for a long time before turning back to watch the forest. \"Wow,\" I said, \"I've never seen anything like that.\"\n\"It's a god,\" someone answered.\n\"No, it can't be,\" someone else argued.\n\"You don't know what you're talking about,\" someone shouted.\n\"Yes, I do,\" I shouted back.\nWe continued arguing for hours. Eventually, the others left to go to bed while I stayed up to read some more. I fell asleep sometime after midnight. When I woke up, the others were gone and it was pitch black outside.",
+      " I got up, grabbed a blanket, and headed out into the woods. I walked for hours, trying to find a place to stay the night. Eventually, I found a small cave, which had a nice stream running through it. I took a quick dip in the cool water. I lay back down on the soft mossy ground, and soon fell asleep.\nWhen I awoke, the sun was shining brightly. My body ached, and I felt terrible. I checked myself over and saw that I was covered in scratches. I looked around and noticed that I was alone. I stood up and walked to the edge of the cave."
    ],
    "actions_metadata": {
       "0": {
-         "Selected Text": "\nThe Valley of Dragons.\n\nThe land is split by a river, and the people are divided into two camps: those who live on the east bank and those who live on the west. The east-west river divides them into an ever-smaller number of smaller tribes and villages.",
+         "Selected Text": " There were more towns along one side because it's where trade routes went through to get from one country to another. The lava put a halt to that",
          "Alternative Text": [
             {
                "Text": "\nThe protagonist is a young woman who has recently gotten out of jail. She's trying to make it on her own, but she can't even seem to keep herself safe from being in danger. She finds herself at a bar where she meets a man and they end up having sex in the backseat of his car.",
@@ -22,26 +27,244 @@
                "Pinned": false,
                "Previous Selection": false,
                "Edited": false
+            },
+            {
+               "Text": " This was true when I'd left as well, though there were more towns along that side because it's where trade routes went through to get from one country to another in this region.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": true
+            },
+            {
+               "Text": " This was true when I'd left as well, though there were more towns along that side because it's where trade routes went through to get from one country to another in this region. ",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": true
+            },
+            {
+               "Text": " Though there were more towns along that side because it's where trade routes went through to get from one country to another. ",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": true
+            },
+            {
+               "Text": " There were more towns along one side because it's where trade routes went through to get from one country to another. Prior to the lava ",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": true
+            },
+            {
+               "Text": " There were more towns along one side because it's where trade routes went through to get from one country to another. The lava put a halt to that. ",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": true
             }
          ]
       },
       "1": {
-         "Selected Text": "",
+         "Selected Text": ", the river has been filled partially with lava, and the only way to cross the boiling water is by bridge. That bridge has been destroyed. Upon close inspection of the rubble around the city, it is discovered that the old stone foundations for the extremely ancient bridge still remain. It's said that the people living on the other side of the river have built a huge wall around their entire village, so no one could come across the river. ",
          "Alternative Text": [
             {
-               "Text": " This was true when I'd left as well, though there were more towns along that side because it's where trade routes went through to get from one country to another in this region--and also between countries further away like the deserts or even other continents altogether!",
+               "Text": "\n\nI had chosen the west bank because it was the least populated part. It had fewer people living there, so it would be easier for me to hide in plain sight there.\n\nAnd now they're all dead.\n\nThere has been no word of the other tribes or villages being attacked. No word of anyone else coming here to take their place.\n\nBut I'm not alone.\n\nI can hear someone behind me.\n\n\"Hello,\" he says. \"My name is O'Rourke.\" He holds out his hand.\n\nI shake it.\n\nHe doesn't seem surprised at my presence.",
                "Pinned": false,
                "Previous Selection": false,
                "Edited": false
             },
             {
-               "Text": "\n\nWhen Nynaeve woke, she was in a bed with her mother, Ymmehamean, and her father, Meilin. Her mother was snoring softly, but Meilin had gone out to work as usual, leaving only Ymmehamean and Nynaeve in the house.",
+               "Text": " But now, with the war between the dragons and the humans, those trade routes have been cut off and people are relying on their own resources.\n\nSo, for example, there are no longer any boats going downriver and the food supply has dried up. And if you're a farmer, you can't farm your crops anymore either, because they're all being used to feed soldiers or defend settlements. So, everyone is struggling to survive.\n\nAnd then there's the dragons. They've been living peacefully alongside the humans until recently, but now they've started attacking villages and killing people.",
                "Pinned": false,
                "Previous Selection": false,
                "Edited": false
             },
             {
-               "Text": " The story begins in one village when a young boy named Eragon finds a strange stone while playing in his garden. He follows it to the marketplace where he meets a mysterious woman who tells him that if he succeeds at three tasks, she will tell him the name of his true parentage.\n\nEragon is sent off with a group of elves to learn about dragons from the Varden.",
+               "Text": "\n\nNow, however, the east-west river has been filled with lava, and the only way to cross it is by bridge. That bridge has been destroyed, but if you look closely enough at the walls around the city, you can still see the old stone foundations for the bridge.\n\nIt's said that the people living on the other side of the river have built a huge wall around their entire village, so no one could come across the river anymore unless they had a boat or raft.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": true
+            },
+            {
+               "Text": "Now, however, the east-west river has been filled with lava, and the only way to cross it is by bridge. That bridge has been destroyed, but if you look closely enough at the walls around the city, you can still see the old stone foundations for the bridge.\n\nIt's said that the people living on the other side of the river have built a huge wall around their entire village, so no one could come across the river anymore unless they had a boat or raft.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": true
+            },
+            {
+               "Text": "Now, however, the east-west river has been filled with lava, and the only way to cross it is by bridge. That bridge has been destroyed, but if you look closely enough at the walls around the city, you can still see the old stone foundations for the bridge. It's said that the people living on the other side of the river have built a huge wall around their entire village, so no one could come across the river anymore unless they had a boat or raft.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": true
+            },
+            {
+               "Text": " Now, however, the east-west river has been filled partially with lava, and the only way to cross it is by bridge. That bridge has been destroyed, but if you look closely enough at the walls around the city, you can still see the old stone foundations for the bridge. It's said that the people living on the other side of the river have built a huge wall around their entire village, so no one could come across the river anymore unless they had a boat or raft.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": true
+            },
+            {
+               "Text": " Now, however, the east-west river has been filled partially with lava, and the only way to cross the boiling water is by bridge. That bridge has been destroyed. If you look closely enough at the rubble around the city, the old stone foundations for the extremely old bridge still remain. It's said that the people living on the other side of the river have built a huge wall around their entire village, so no one could come across the river anymore unless they had a boat or raft.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": true
+            },
+            {
+               "Text": " Now, however, the east-west river has been filled partially with lava, and the only way to cross the boiling water is by bridge. That bridge has been destroyed. Upon close inspection of the rubble around the city, it is discovered that the old stone foundations for the extremely ancient bridge still remain. It's said that the people living on the other side of the river have built a huge wall around their entire village, so no one could come across the river anymore.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": true
+            },
+            {
+               "Text": " Now, however, the east-west river has been filled partially with lava, and the only way to cross the boiling water is by bridge. That bridge has been destroyed. Upon close inspection of the rubble around the city, it is discovered that the old stone foundations for the extremely ancient bridge still remain. It's said that the people living on the other side of the river have built a huge wall around their entire village, so no one could come across the river anymore.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": true
+            },
+            {
+               "Text": " Now, however, the east-west river has been filled partially with lava, and the only way to cross the boiling water is by bridge. That bridge has been destroyed. Upon close inspection of the rubble around the city, it is discovered that the old stone foundations for the extremely ancient bridge still remain. It's said that the people living on the other side of the river have built a huge wall around their entire village, so no one could come across the river anymore.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": true
+            },
+            {
+               "Text": " Now, however, the east-west river has been filled partially with lava, and the only way to cross the boiling water is by bridge. That bridge has been destroyed. Upon close inspection of the rubble around the city, it is discovered that the old stone foundations for the extremely ancient bridge still remain. It's said that the people living on the other side of the river have built a huge wall around their entire village, so no one could come across the river anymore.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": true
+            },
+            {
+               "Text": " Now, however, the east-west river has been filled partially with lava, and the only way to cross the boiling water is by bridge. That bridge has been destroyed. Upon close inspection of the rubble around the city, it is discovered that the old stone foundations for the extremely ancient bridge still remain. It's said that the people living on the other side of the river have built a huge wall around their entire village, so no one could come across the river anymore.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": true
+            },
+            {
+               "Text": " Now, however, the east-west river has been filled partially with lava, and the only way to cross the boiling water is by bridge. That bridge has been destroyed. Upon close inspection of the rubble around the city, it is discovered that the old stone foundations for the extremely ancient bridge still remain. It's said that the people living on the other side of the river have built a huge wall around their entire village, so no one could come across the river anymore.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": true
+            },
+            {
+               "Text": " Now, however, the east-west river has been filled partially with lava, and the only way to cross the boiling water is by bridge. That bridge has been destroyed. Upon close inspection of the rubble around the city, it is discovered that the old stone foundations for the extremely ancient bridge still remain. It's said that the people living on the other side of the river have built a huge wall around their entire village, so no one could come across the river anymore.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": true
+            },
+            {
+               "Text": "Now, however, the east-west river has been filled partially with lava, and the only way to cross the boiling water is by bridge. That bridge has been destroyed. Upon close inspection of the rubble around the city, it is discovered that the old stone foundations for the extremely ancient bridge still remain. It's said that the people living on the other side of the river have built a huge wall around their entire village, so no one could come across the river anymore.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": true
+            },
+            {
+               "Text": ", the east-west river has been filled partially with lava, and the only way to cross the boiling water is by bridge. That bridge has been destroyed. Upon close inspection of the rubble around the city, it is discovered that the old stone foundations for the extremely ancient bridge still remain. It's said that the people living on the other side of the river have built a huge wall around their entire village, so no one could come across the river anymore.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": true
+            },
+            {
+               "Text": ", the east-west river has been filled partially with lava, and the only way to cross the boiling water is by bridge. That bridge has been destroyed. Upon close inspection of the rubble around the city, it is discovered that the old stone foundations for the extremely ancient bridge still remain. It's said that the people living on the other side of the river have built a huge wall around their entire village, so no one could come across the river.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": true
+            },
+            {
+               "Text": ", the river has been filled partially with lava, and the only way to cross the boiling water is by bridge. That bridge has been destroyed. Upon close inspection of the rubble around the city, it is discovered that the old stone foundations for the extremely ancient bridge still remain. It's said that the people living on the other side of the river have built a huge wall around their entire village, so no one could come across the river.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": true
+            }
+         ]
+      },
+      "2": {
+         "Selected Text": " It was nightfall when we finally reached the outskirts of the city. We had decided to camp out in the woods nearby rather than go back into town. I thought about going to sleep right away but then realized we would be leaving our things unattended if we did. So instead, I sat down near the fire and began reading my book. I looked up at the sky just as there was a flash of red light. At first I thought it was just the setting sun reflecting off of the trees, but then I saw something else. A small dot of light appeared in the sky. It grew bigger and brighter until it became a large sphere.",
+         "Alternative Text": [
+            {
+               "Text": " It was determined that they had no intention of trading with anyone else and would rather die than allow others to take away what little food they had left.\n\nIn this world, there are three basic necessities: air (to breathe), water (to drink) and food (to eat). These three things cannot be taken for granted. Air is easily replaced, but if you don't have enough water or food, death quickly follows. In the case of the latter, it can be prevented by eating more, but not in the case of the former. You can always find water, but there aren't many places where you can get fresh air.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": false
+            },
+            {
+               "Text": " But the villagers want to go back across the river, they don't care about the wall, in fact they would be happy if it was destroyed.\n\nThe story opens with the narrator as a young boy, sitting on his father's shoulders, looking up at the stars. His father tells him that he will see things differently when he grows up, but right now he needs to learn how to walk. His father takes him down to show him how.\n\nHe walks around the house, looking at everything, then goes out to the yard. He tries walking, but falls flat on his face.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": false
+            },
+            {
+               "Text": "\n\nIt was nightfall when we finally reached the outskirts of the city. We had decided to camp out in the woods nearby rather than go back into town. I thought about going to sleep right away but then realized we would be leaving our things unattended if we did. So instead, I sat down near the fire and began reading my book.\n\nI looked up at the sky just as there was a flash of red light. At first I thought it was just the setting sun reflecting off of the trees, but then I saw something else. A small dot of light appeared in the sky. It grew bigger and brighter until it became a large sphere.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": true
+            },
+            {
+               "Text": "It was nightfall when we finally reached the outskirts of the city. We had decided to camp out in the woods nearby rather than go back into town. I thought about going to sleep right away but then realized we would be leaving our things unattended if we did. So instead, I sat down near the fire and began reading my book.\n\nI looked up at the sky just as there was a flash of red light. At first I thought it was just the setting sun reflecting off of the trees, but then I saw something else. A small dot of light appeared in the sky. It grew bigger and brighter until it became a large sphere.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": true
+            }
+         ]
+      },
+      "3": {
+         "Selected Text": " It was so beautiful that I forgot all about my worries for a moment. The sphere hovered above us, then slowly descended towards the forest. Suddenly, a loud noise erupted from the sphere. It made me jump, and I looked around to see everyone else doing the same. The sphere stopped its descent and flew over our heads. Then it turned around and flew back in the direction it came from. Everyone watched silently as it disappeared into the distance, not knowing what to make of this. After a few minutes, I heard someone whisper something in a language I didn't understand. I looked around and saw everyone nodding. \"Gods,\" I whispered, and everyone nodded.",
+         "Alternative Text": [
+            {
+               "Text": " It hovered above us, illuminating the area around us. It hovered over us and started moving slowly towards us. We stared at it for what seemed like hours before it stopped directly over us. It made no sound whatsoever. It just hovered there silently. Then it took off. It flew upwards, faster than any human being can fly, and disappeared into the sky. I don't know how long we stayed there watching it. We never got tired of looking at it. Eventually we fell asleep. When morning came, we woke up and continued to stare at it. After a while, it took off again. This time it didn't disappear into the clouds.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": false
+            },
+            {
+               "Text": " I'm not sure what kind of device it was, but it was definitely some sort of spacecraft. It hovered there for a few minutes before drifting away. I watched as it moved further away and then disappeared. I stared at the spot in the sky for a while. I don't know how long I was sitting there, but suddenly I felt someone shaking me awake. I opened my eyes and saw that it was morning. My friends were all standing around looking at me. \"What?\" I asked. \"You're supposed to be asleep,\" replied my friend, Ben. I guess I must have really slept well. \"I just saw a UFO,\" I explained.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": false
+            }
+         ]
+      },
+      "4": {
+         "Selected Text": " We all stared at each other for a long time before turning back to watch the forest. \"Wow,\" I said, \"I've never seen anything like that.\"\n\"It's a god,\" someone answered.\n\"No, it can't be,\" someone else argued.\n\"You don't know what you're talking about,\" someone shouted.\n\"Yes, I do,\" I shouted back.\nWe continued arguing for hours. Eventually, the others left to go to bed while I stayed up to read some more. I fell asleep sometime after midnight. When I woke up, the others were gone and it was pitch black outside.",
+         "Alternative Text": [
+            {
+               "Text": "\n\nThe next day, we left early in the morning. We traveled through the forest for hours, seeing nothing but trees and animals. All we found were frogs and mice. By noon, we started to get hungry and tired, but we kept going. We spent the night camping out in the wilderness. We ate some berries and mushrooms, but I didn't know how to cook them. I really wished I had brought a stove or something. The next day, we continued to walk through the forest. We had walked for about three days before we started to notice signs of civilization. We saw a couple of houses, but they were too far away.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": false
+            },
+            {
+               "Text": " They all lay back down and fell asleep. I lay awake for quite some time thinking about everything. The next morning, I woke up to find that everyone else was gone. I got up and walked around looking for them. I found nothing, and I decided to leave. I packed my bags and started walking south. I'm hoping to find a place in the southern hemisphere where everyone can be happy. I want to find the best place possible for humanity to thrive in the future. But first, I need to find a place to rest. My new home will be called Australia.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": false
+            },
+            {
+               "Text": " They all stood up and quietly started to walk back into town. I got up and walked back to my tent. As soon as I stepped inside, I fell asleep. When I woke up, I realized that everyone had left without waking me. I opened the flap of my tent and saw that everything was gone. My backpack, sleeping bag, and food were nowhere to be found. I walked outside and saw that they had taken everything. All the tents and all the food were gone. It was like someone had ripped them out of the ground. I guess they took everything they needed to survive. I also noticed that they had left behind all of the books in my backpack.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": false
+            },
+            {
+               "Text": " We all stared at each other for a long time before turning back to watch the forest. \"Wow,\" I said, \"I've never seen anything like that.\"\n\n\"It's a god,\" someone answered.\n\"No, it can't be,\" someone else argued.\n\"You don't know what you're talking about,\" someone shouted.\n\"Yes, I do,\" I shouted back.\nWe continued arguing for hours. Eventually, the others left to go to bed while I stayed up to read some more. I fell asleep sometime after midnight. When I woke up, the others were gone and it was pitch black outside.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": true
+            }
+         ]
+      },
+      "5": {
+         "Selected Text": " I got up, grabbed a blanket, and headed out into the woods. I walked for hours, trying to find a place to stay the night. Eventually, I found a small cave, which had a nice stream running through it. I took a quick dip in the cool water. I lay back down on the soft mossy ground, and soon fell asleep.\nWhen I awoke, the sun was shining brightly. My body ached, and I felt terrible. I checked myself over and saw that I was covered in scratches. I looked around and noticed that I was alone. I stood up and walked to the edge of the cave.",
+         "Alternative Text": [
+            {
+               "Text": " I felt around me and discovered that I was alone. I panicked and tried to find my companions, but I couldn't see anything in the darkness. I ran around and around in circles, getting lost, until my legs started to hurt. I was about to give up when I noticed a faint light in the distance. It was coming from the direction that the sphere had flown off in. I followed it, and it led me to a clearing. In the middle of the clearing, a man stood staring into the flames of a fire. He was wearing all white except his eyes which were dark brown. I approached him cautiously.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": false
+            },
+            {
+               "Text": " I stood up and stretched my arms. I noticed that my shirt was soaked in sweat and my eyes were dry and stinging. I felt like I'd been running a marathon. I walked over to the stream and splashed cold water on my face. I took a drink of the water and then cupped it in my hands. It tasted horrible and it burned my mouth. I spit it out and drank some more. Still tasting bad, I drank again. This time, the taste was better. I cupped the rest of the water in my hands and drank. It tasted great! I drank again, and my thirst was quenched.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": false
+            },
+            {
+               "Text": " I had forgotten to bring a flashlight, so I got up and walked around looking for them. After wandering around for awhile, I heard a rustling sound coming from the bushes behind me. I spun around quickly and nearly screamed! Standing there was a huge black bear with glowing eyes. It took me a second to realize that it wasn't real, but when I looked again, it was gone. I ran back to the tent and told the others what happened. They laughed at me and told me to calm down. I couldn't tell if they believed me or not. I decided to stay awake for a little longer anyway.",
                "Pinned": false,
                "Previous Selection": false,
                "Edited": false
@@ -49,7 +272,24 @@
          ]
       }
    },
-   "worldinfo": [],
-   "wifolders_d": {},
-   "wifolders_l": []
+   "worldinfo": [
+      {
+         "key": "<||lslocation||>",
+         "keysecondary": "",
+         "content": "",
+         "comment": "",
+         "folder": -201244746,
+         "selective": false,
+         "constant": true
+      }
+   ],
+   "wifolders_d": {
+      "-201244746": {
+         "name": "Locations <||ls||>",
+         "collapsed": false
+      }
+   },
+   "wifolders_l": [
+      -201244746
+   ]
 }
