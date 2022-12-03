@@ -1,0 +1,55 @@
+{
+   "gamestarted": true,
+   "prompt": "",
+   "memory": "",
+   "authorsnote": "",
+   "anotetemplate": "[Author's note: <|>]",
+   "actions": [
+      "\nThe Valley of Dragons.\n\nThe land is split by a river, and the people are divided into two camps: those who live on the east bank and those who live on the west. The east-west river divides them into an ever-smaller number of smaller tribes and villages."
+   ],
+   "actions_metadata": {
+      "0": {
+         "Selected Text": "\nThe Valley of Dragons.\n\nThe land is split by a river, and the people are divided into two camps: those who live on the east bank and those who live on the west. The east-west river divides them into an ever-smaller number of smaller tribes and villages.",
+         "Alternative Text": [
+            {
+               "Text": "\nThe protagonist is a young woman who has recently gotten out of jail. She's trying to make it on her own, but she can't even seem to keep herself safe from being in danger. She finds herself at a bar where she meets a man and they end up having sex in the backseat of his car.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": false
+            },
+            {
+               "Text": "The story begins with a young woman named Jemma who is on her way to visit family in London. She has been living and working abroad for two years, but she still misses England terribly. As an only child, she grew up traveling between different countries as part of her father's job; so it isn't unusual that this trip would be very special to her.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": false
+            }
+         ]
+      },
+      "1": {
+         "Selected Text": "",
+         "Alternative Text": [
+            {
+               "Text": " This was true when I'd left as well, though there were more towns along that side because it's where trade routes went through to get from one country to another in this region--and also between countries further away like the deserts or even other continents altogether!",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": false
+            },
+            {
+               "Text": "\n\nWhen Nynaeve woke, she was in a bed with her mother, Ymmehamean, and her father, Meilin. Her mother was snoring softly, but Meilin had gone out to work as usual, leaving only Ymmehamean and Nynaeve in the house.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": false
+            },
+            {
+               "Text": " The story begins in one village when a young boy named Eragon finds a strange stone while playing in his garden. He follows it to the marketplace where he meets a mysterious woman who tells him that if he succeeds at three tasks, she will tell him the name of his true parentage.\n\nEragon is sent off with a group of elves to learn about dragons from the Varden.",
+               "Pinned": false,
+               "Previous Selection": false,
+               "Edited": false
+            }
+         ]
+      }
+   },
+   "worldinfo": [],
+   "wifolders_d": {},
+   "wifolders_l": []
+}
